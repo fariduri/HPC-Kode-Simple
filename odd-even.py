@@ -1,3 +1,5 @@
+#1301180513 fadriantos
+
 num = input('masukkan angka: ')
 
 if num.isnumeric():
